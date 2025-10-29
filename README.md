@@ -6,7 +6,7 @@ A simple ASP.NET Web Forms project that allows adding, viewing, and deleting stu
 ## 👨‍💻 Author Information
 - **Name:** Krins Dobariya
 - **Branch:** CE
-- **Division:** 5A
+- **Division:** 5E
 - **Enrollment No:** 202403103520078
 
 ## ⚙️ Technologies Used
